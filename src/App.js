@@ -11,6 +11,7 @@ class App extends React.Component {
       list: []
     }
   }
+  
 
   /* this is Add item function */
   addItem(todoValue) {
